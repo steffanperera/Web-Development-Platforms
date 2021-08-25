@@ -1,4 +1,4 @@
-#Web Development Platforms
+<h1>Web Development Platforms</h1>
 
 This is a dynamic website developed by our group for the module PUSL2002 Coursework.
 
